@@ -19,8 +19,8 @@ check your program and its source code for the following points:
   ```sudo apt install clang-format```
 
   Required version of clang-format: \
-  **Mac** 14.0.5 \
-  **Linux** 13.0.1
+  **Mac** 18.1.6 \
+  **Linux** 18.1.3
 
 
  * **Static code analysis.** Sometimes (or not quite sometimes) it happens that
@@ -36,5 +36,5 @@ check your program and its source code for the following points:
    ```cppcheck --enable=all --suppress=missingIncludeSystem src/```
 
    Required version of cppcheck: \
-   **Mac** 2.8 \
-   **Linux** 2.8
+   **Mac** 2.13 \
+   **Linux** 2.13
