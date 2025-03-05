@@ -30,7 +30,7 @@ Suddenly, you hear a clear, perfectly audible voice from the speakers:
 >I look forward to seeing what you come up with! \
 >Thank you.
 
-***== Quest received. Develop an src/game_of_life.c program in C – a visualization of The Game of Life. To display the graphics, only use ASCII characters (with output to the terminal). You need to implement interactive version of the Game of life. Also create the option for adjusting the speed of the "game". ==***
+***== Quest received. Develop an src/game_of_life.c program in C – a visualization of The Game of Life. To display the graphics, only use ASCII characters (with output to the terminal). You need to implement interactive version of the Game of life. Also create the options for adjusting the speed of the "game" and the ability to finish it. ==***
 
 * ***Graphics***
 

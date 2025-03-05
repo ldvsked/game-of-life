@@ -30,7 +30,7 @@ To’satdan kolonkalardan aniq, kristal toza eshitiladigan yangradi:
 >Natijalarni intizorlik bilan kutaman! \
 >Raxmat.
 
-***== Quest qabul qilindi. SIi dasturlash tilida «The Game of Life» aks ettirilgan src/game_of_life.c dasturini ishlab chiqing. Grafiklarni ko'rsatish uchun faqat belgilar (ASCII) grafiklaridan foydalanish (terminalga chiqarish bilan). Game of life o’yinida o’yin tezligi sozlamali interaktiv rejimni amalga oshirish kerak. ==***
+***== Quest qabul qilindi. SIi dasturlash tilida «The Game of Life» aks ettirilgan src/game_of_life.c dasturini ishlab chiqing. Grafiklarni ko'rsatish uchun faqat belgilar (ASCII) grafiklaridan foydalanish (terminalga chiqarish bilan). Shuningdek, "o'yin" tezligini va uni tugatish qobiliyatini sozlash variantlarini yarating. ==***
 
 * ***Grafika*** 
 
