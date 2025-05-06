@@ -30,7 +30,7 @@ To’satdan kolonkalardan aniq, kristal toza eshitiladigan yangradi:
 >Natijalarni intizorlik bilan kutaman! \
 >Raxmat.
 
-***== Quest qabul qilindi. SIi dasturlash tilida «The Game of Life» aks ettirilgan src/game_of_life.c dasturini ishlab chiqing. Grafiklarni ko'rsatish uchun faqat belgilar (ASCII) grafiklaridan foydalanish (terminalga chiqarish bilan). Shuningdek, "o'yin" tezligini va uni tugatish qobiliyatini sozlash variantlarini yarating. ==***
+***== Quest qabul qilindi. SIi dasturlash tilida «The Game of Life» aks ettirilgan src/game_of_life.c dasturini ishlab chiqing. Grafiklarni ko'rsatish uchun faqat belgilar (ASCII) grafiklaridan foydalanish (terminalga chiqarish bilan). Shuningdek, "o'yin" tezligini va uni tugatish qobiliyatini sozlash variantlarini yarating. O'yinchi harakatlarini qayta ishlash va belgilar grafikasini ko'rsatishni soddalashtirish uchun siz "ncurses" kutubxonasidan foydalanishingiz mumkin. ==***
 
 * ***Grafika*** 
 
@@ -40,7 +40,7 @@ Maydon "o'z-o'ziga yopilgan" deb taxmin qilinadi, masalan, pastgi o’ng kvadrat
 
 Stdin orqali "o'yin" holatini dastlabki ishga tushirishni oldindan nazarga olish. 
 
-Kkirishni qayta yo’naltirish orqali tez ishga tushurish va initsializatsiya uchun boshlang’ich holat bilanli kamida 5 ta fayl tayyorlash
+Kkirishni qayta yo’naltirish orqali tez ishga tushurish va initsializatsiya uchun boshlang’ich holat bilanli kamida 5 ta fayl tayyorlash.
 
 ## Muhim eslatmalar
 
