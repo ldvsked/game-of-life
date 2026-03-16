@@ -1,4 +1,4 @@
-# P02D13: Conway's Game of Life
+# Game of Life
 
 ## О проекте
 
